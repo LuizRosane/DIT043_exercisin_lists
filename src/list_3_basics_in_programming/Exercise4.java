@@ -39,14 +39,14 @@ public class Exercise4 {
         int[] array1 = new int[] {1, 4, 5, 6, 2};
         int[] array2 = new int[] {1, 2, 3};
         int[] array3 = new int[] {1, 2};
-        int[] array4 = new int[] {1, 2, 4, 5};
+        //int[] array4 = new int[] {1, 2, 4, 5};
 
 
 
         System.out.println(threeConsecutive(array1));
         System.out.println(threeConsecutive(array2));
         System.out.println(threeConsecutive(array3));
-        System.out.println(threeConsecutive(array4));
+        //System.out.println(threeConsecutive(array4));
     }
 
 }
